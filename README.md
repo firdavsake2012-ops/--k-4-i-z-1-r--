@@ -1,0 +1,2 @@
+# --k-4-i-z-1-r--
+SALAMALEKUM MALEKUM SALAAAM
