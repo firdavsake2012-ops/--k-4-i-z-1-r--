@@ -1,0 +1,27 @@
+.A{
+    background-color: lime;
+}
+.W{
+    background-color:rgb(196, 196, 196);
+}
+input{
+    width: 200px;
+}
+.but{
+    background-color: green;
+    color: white;
+} 
+.B{
+    background-color: beige;
+    width: 100%;
+}
+thead,td,tbody,tr,thead,th,table{
+    width: 700px;
+    border: solid black 0.5px;
+    border-collapse: collapse;
+}
+.C{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
